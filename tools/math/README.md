@@ -120,3 +120,5 @@ The summation was successful.
 The summation failed due to overflow.
 
 - **`err.reason`: [`String`]** - The reason for the error. This is always overflow.
+
+<!-- Auto-update: 2025-10-18T13:47:40.999122 -->
